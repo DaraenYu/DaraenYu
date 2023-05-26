@@ -1,7 +1,7 @@
-### Hi there 👋! My name is Christophe!
-## 3rd year Multimedia Student
+# Hi there 👋! My name is Christophe!
 
-🌍 I'm currently living in Montreal, Quebec
+🎓 I'm a 3rd year Multimedia Student
+🌍 I'm living in Montreal, Quebec
 🌱 I’m currently learning React<br>
 🤝 I’m open to collaborate on UI/UX Design and Web Development<br>
 💬 You can contact me at christopheleamtouch@gmail.com<br>
