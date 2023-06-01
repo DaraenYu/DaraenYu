@@ -12,8 +12,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christophe-leam-touch-977336123) 
 
 ## 📁 Projects
-![Image du jour](https://tp2-idj-christophe.web.app/)
-![Memo](https://daraenyu.github.io/tp1-memo-christophe/)
+Image du jour - https://tp2-idj-christophe.web.app/ <br>
+Memo - https://daraenyu.github.io/tp1-memo-christophe/
 
 ## 💻 Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
