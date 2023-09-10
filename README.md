@@ -13,7 +13,8 @@
 
 ## 📁 Projects
 Image du jour - https://tp2-idj-christophe.web.app/ <br>
-Memo - https://daraenyu.github.io/tp1-memo-christophe/
+Quiz sur les chats - https://daraenyu.github.io/quiz-cat-app/ <br>
+Jack contre les fantômes - https://daraenyu.github.io/ghost-game-web/
 
 ## 💻 Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
