@@ -2,7 +2,7 @@
 
 🎓 I'm a 3rd year Multimedia Student<br>
 🌍 I'm living in Montreal, Quebec<br>
-🌱 I’m currently learning React<br>
+🌱 I’m currently learning Figma, React Three Fiber and GSAP<br>
 🤝 I’m open to collaborate on UI/UX Design and Web Development<br>
 💬 You can contact me at christopheleamtouch@gmail.com<br>
 🐈 I love my cat!
