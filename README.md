@@ -8,7 +8,7 @@
 🐈 I love my cat!
 
 ## 📁 Portfolio
-Coming soon !
+[Link to my portfolio](https://daraenyu.github.io/christophe-leam-touch-portfolio/)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=DaraenYu&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
